@@ -108,56 +108,6 @@ const shayan: FullStackDeveloper = {
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 🛒 Ecobazar Ecommerce
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-A modern full stack ecommerce platform featuring responsive UI, category systems, product management, JWT authentication, and a scalable backend architecture.
-
-[`View Project →`](https://github.com/shayanabdullah)
-
-</td>
-
-<td width="33%" align="center">
-
-### 🤖 AI Assistant Interface
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-A real-time AI assistant interface with a focus on modern UI/UX design, voice interaction, live streaming responses, and a fully responsive layout.
-
-[`View Project →`](https://github.com/shayanabdullah)
-
-</td>
-
-<td width="33%" align="center">
-
-### 📊 SaaS Dashboard
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-An interactive analytics dashboard with reusable component architecture, chart integrations, role-based access, and a clean admin panel system.
-
-[`View Project →`](https://github.com/shayanabdullah)
-
-</td>
-
-</tr>
-</table>
-</div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -195,7 +145,7 @@ An interactive analytics dashboard with reusable component architecture, chart i
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shayan%20Abdullah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-abdullah)
 [![Gmail](https://img.shields.io/badge/Email-shayanabdullahdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shayanabdullahdev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-shayanabdullah-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shayanabdullah)
-
+[![Facebook](https://img.shields.io/badge/Facebook-Shayan%20Abdullah-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=shayanabdullah)
 <br/>
 
 > 💬 *Open to freelance projects, collaborations, and full-time opportunities. Let's build something great.*
