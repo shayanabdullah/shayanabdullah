@@ -29,44 +29,6 @@ A detail-oriented **Full Stack Developer** specializing in high-performance web 
 
 ---
 
-### 📂 Featured Projects
-
-#### 🛒 [Ecobazar Ecommerce](https://github.com/shayan-abdullah)
-> A premium, high-conversion ecommerce platform featuring a modern UI and optimized performance.
-- **Stack:** React, Tailwind CSS, Node.js, MongoDB.
-- **Key Feature:** Advanced filtering, responsive commercial aesthetic, and seamless checkout.
-
-#### 🤖 [Riko AI Assistant](https://github.com/shayan-abdullah)
-> A custom-built AI agent project utilizing local LLM deployment and specific persona configurations.
-- **Stack:** Python, Ollama, React (Frontend Interface).
-- **Key Feature:** Context-aware responses with custom system-prompt architecture.
-
-#### 📊 [SaaS Dashboard](https://github.com/shayan-abdullah)
-> High-performance administrative dashboard for data visualization and user management.
-- **Stack:** Next.js, Chart.js, Express.
-- **Key Feature:** Real-time analytics and dark-mode optimized UI.
-
----
-
-### 📈 GitHub Ecosystem
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shayan-abdullah&show_icons=true&theme=tokyonight&hide_border=true&icon_color=10B981&title_color=10B981&text_color=94a3b8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-abdullah&layout=compact&theme=tokyonight&hide_border=true&title_color=10B981&text_color=94a3b8" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shayan-abdullah&theme=tokyonight&hide_border=true&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981" />
-</p>
-
----
-
-### 🎯 Core Competencies
-- **Architecture:** Scalable REST APIs & MVC Design Patterns.
-- **Frontend:** Responsive Web Design & State Management (Redux/Context API).
-- **Security:** JWT Authentication & Secure Data Encryption.
-- **Optimization:** Performance tuning and SEO-best practices.
-
 ---
 
 ### 👋 Connect with Me
