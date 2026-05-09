@@ -128,7 +128,7 @@ const shayan: FullStackDeveloper = {
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] 🏗 Ship production-level full stack SaaS products
 - [ ] 🔧 Deepen backend architecture & system design skills
